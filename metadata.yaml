@@ -1,0 +1,29 @@
+_repo: Philothea--13-A-Grecian-Romance_9982
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Child, Lydia Maria
+    aliases:
+    - Child, L. Maria (Lydia Maria)
+    - Francis, Lydia Maria
+    - Child, Lydia Maria Francis
+    birthdate: 1802
+    deathdate: 1880
+    gutenberg_agent_id: '2732'
+    url: http://www.gutenberg.org/2009/agents/2732
+    wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Greece -- Fiction'
+- GITenberg
+title: 'Philothea: A Grecian Romance'
+url: http://www.gutenberg.org/ebooks/9982
